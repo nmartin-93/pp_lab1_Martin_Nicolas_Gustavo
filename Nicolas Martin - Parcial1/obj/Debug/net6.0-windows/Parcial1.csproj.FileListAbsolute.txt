@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.Form1.resources
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\UTN\Lab y prog 2\Ejercicios\Parcial1\obj\Debug\net6.0-windows\Parcial1.sourcelink.json
